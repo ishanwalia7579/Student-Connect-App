@@ -45,7 +45,7 @@ StudentsConnectApp/
 4. Run the app on emulator or device
 
 ## 👩‍💻 Author
-Created by **Ishan** – Aspiring Android Developer 💻📱
+Created by **Ishan Walia** – Aspiring Android Developer 💻📱
 
 ## 💼 License
 This project is for learning and educational use only.
